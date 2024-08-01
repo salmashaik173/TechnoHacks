@@ -1,0 +1,41 @@
+.container{
+    text-align: center;
+    margin-top:23px
+}
+
+
+table{
+    margin: auto;
+}
+ 
+input{
+    border-radius: 21px;
+    font-size:34px;
+    height: 85px;
+    width: 260px;
+    scroll-behavior: smooth;
+}
+ 
+button{
+    border-radius: 20px;
+    font-size: 20px;
+    background: #ffffff;
+    width: 60px;
+    height: 50px;
+    margin: 6px;
+}
+
+body{
+    background-image: url(https://wallpapers.com/images/high/calculator-1500-x-997-background-wm0zyej6n8jaqpsz.webp);
+
+    background-repeat: no-repeat;
+    background-size: calc(1800px);
+}
+ 
+.calculator{
+    background-color: #33b7c0;
+    padding: 60px;
+    border-radius: 55px;
+    display: inline-block;
+   
+}
